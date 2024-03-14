@@ -1,0 +1,13 @@
+[
+    {"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.setupDatabase"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testGetCountries"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testGetAthletes"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testGetCountryAthletes"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testGetAthleteCountry"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testDeleteAthleteNotFound"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testDeleteAthlete"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testAfterDeleteAthlete"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testDeleteCountryNotFound"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testDeleteCountry"},
+{"test_case_name_enum":"com.example.athletedirectory.AthleteDirectoryControllerTests.testAfterDeleteCountry"},
+{"test_case_name_enum":"com.example.athletedirectory.SmokeTest.contextLoads"}]
